@@ -1,0 +1,5 @@
+  .                                   D        0  Wed Sep  4 06:49:09 2019
+  ..                                  D        0  Sat Aug  9 09:03:22 2025
+  log.txt                             N    12237  Wed Sep  4 06:49:09 2019
+
+		9183416 blocks of size 1024. 2914704 blocks available
